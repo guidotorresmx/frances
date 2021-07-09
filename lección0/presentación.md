@@ -1,4 +1,4 @@
-je suid mexicain
+je suis mexicain
 je suis me
 salut
 bonjour
