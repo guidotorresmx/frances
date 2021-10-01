@@ -24,3 +24,12 @@ un, une, des -> de
 
 sac
 sac
+
+la, ahi, alli
+
+fener ferns
+futei
+
+verre
+ill y a deux plant
+ill y a tapi
