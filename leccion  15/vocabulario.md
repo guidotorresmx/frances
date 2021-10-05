@@ -16,4 +16,6 @@ boite - antro
 dors - dormir
 
 
-1
+Le dimanche matin, tu te lèves à 10 heures, tu fait le ménage at après tu te laves. L'après-midi, tu te reposes, puis tu fait du tennis
+
+Le dimanche matin, elle se lève à 10 heures, elle fait le ménage et après elle se lave. L'après-midi, elle se repose, puis elle fait du tennis
