@@ -14,7 +14,7 @@ campagne - campo
 menage - quehacer
 boite - antro
 dors - dormir
-
+vers
 
 Le dimanche matin, tu te lèves à 10 heures, tu fait le ménage at après tu te laves. L'après-midi, tu te reposes, puis tu fait du tennis
 
