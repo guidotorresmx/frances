@@ -1,4 +1,4 @@
-faut
+faut - hacer falta
 cest ça
 achete - comprar
 beurre
