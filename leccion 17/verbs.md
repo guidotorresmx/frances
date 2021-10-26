@@ -1,2 +1,4 @@
 acheter
 faut
+boire
+mange
