@@ -8,3 +8,4 @@ saeur
 pate - pasta
 alors -so
 hier - ayer
+cadeau
